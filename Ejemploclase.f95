@@ -1,4 +1,4 @@
 program hola_mundo
 implicit none
-write(*,*) 'Hola mundo'
+write(*,*) 'Clase de informatica'
 end program hola_mundo
